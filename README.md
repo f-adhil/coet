@@ -1,2 +1,2 @@
 # coet
-# fadhil[f-adhil](https://github.com/f-adhil)
+# fadhil - [f-adhil](https://github.com/f-adhil)
